@@ -8,9 +8,21 @@ I'm a Full Stack Web Developer, specialing in **LAMP Technologies** and my weapo
 * Apache
 * Linux
 
-For Frontend, For my Prevoius project i used a lot of JQuery, Sass, and Bootstrap but right now I'am currently exploring Vuejs, PostCSS, TailwindCSS, ParcelJS and Vite
+For Frontend, im currently using these technologies:
 
-Im also a fan of these Frameworks and Platforms: 
+* HTML
+* CSS
+* JavaScript
+* Sass
+* PostCSS
+* JQuery
+* Bootstrap
+* TailwindCSS
+* ParcelJS
+* VueJS
+
+
+Im also a fan of these **Frameworks and Platforms** that im using right now for some of my projects: 
 
 * Laravel
 * Lumen
