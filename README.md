@@ -1,10 +1,24 @@
 # Hello World!
 
-I'm a Full Stack Web Developer, specialing in LAMP Technologies and my weapon of choice for the backend are PHP, MySQL, Nginx, Apache and Linux. 
+I'm a Full Stack Web Developer, specialing in **LAMP Technologies** and my weapon of choice for the backend:
 
-Im also Fan of these Frameworks and Platforms: Laravel, Lumen, WordPress, Drupal and Craft CMS. 
+* PHP 
+* MySQL
+* Nginx
+* Apache
+* Linux
 
 For Frontend, For my Prevoius project i used a lot of JQuery, Sass, and Bootstrap but right now I'am currently exploring Vuejs, PostCSS, TailwindCSS, ParcelJS and Vite
+
+Im also a fan of these Frameworks and Platforms: 
+
+* Laravel
+* Lumen
+* WordPress
+* Drupal
+* Craft CMS. 
+
+
 
 <!--
 **willard/willard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
