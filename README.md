@@ -19,7 +19,9 @@ For Frontend, im currently using these technologies:
 * Bootstrap
 * TailwindCSS
 * ParcelJS
+* RollupJS
 * VueJS
+* AlpineJS
 
 
 Im also a fan of these **Frameworks and Platforms** that im using right now for some of my projects: 
@@ -28,7 +30,7 @@ Im also a fan of these **Frameworks and Platforms** that im using right now for 
 * Lumen
 * WordPress
 * Drupal
-* Craft CMS. 
+* Craft CMS
 
 
 
