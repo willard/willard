@@ -19,7 +19,7 @@ For Frontend, im currently using these technologies:
 * Bootstrap
 * TailwindCSS
 * ParcelJS
-* RollupJS
+* (RollupJS)[https://rollupjs.org/guide/en/]
 * VueJS
 * AlpineJS
 
