@@ -19,9 +19,9 @@ For Frontend, im currently using these technologies:
 * Bootstrap
 * TailwindCSS
 * ParcelJS
-* (RollupJS)[https://rollupjs.org/guide/en/]
+* [RollupJS](https://rollupjs.org/guide/en/)
 * VueJS
-* AlpineJS
+* [AlpineJS](https://github.com/alpinejs/alpine)
 
 
 Im also a fan of these **Frameworks and Platforms** that im using right now for some of my projects: 
