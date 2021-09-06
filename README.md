@@ -1,6 +1,6 @@
 # Hello World!
 
-I'm a Full Stack Web Developer, specialing in **LAMP Technologies** and my weapon of choice for the backend:
+I'm a Full Stack Web Developer from Toronto, with more than 10 years experience in web developement specialing in **LAMP Technologies** and my weapon of choice for the backend:
 
 * PHP 
 * MySQL
